@@ -8,6 +8,7 @@ chmod +x ~/Tools/Custom/Bash/info/iens3.sh
 chmod +x ~/Tools/Custom/Bash/info/ieth0.sh
 chmod +x ~/Tools/Custom/Bash/info/ilo.sh
 chmod +x ~/Tools/Custom/Bash/info/itun0.sh
+chmod +x ~/Tools/Custom/Bash/info/iwlan0.sh
 
 
 # Update .zshrc with alias
@@ -19,6 +20,7 @@ alias_lines=(
   "alias ieth0='~/Tools/Custom/Bash/info/ieth0.sh'"
   "alias ilo='~/Tools/Custom/Bash/info/ilo.sh'"
   "alias itun0='~/Tools/Custom/Bash/info/itun0.sh'"
+  "alias iwlan0='~/Tools/Custom/Bash/info/iwlan0.sh'"
 )
 
 # To ensure the last line of ~/.zshrc is empty
